@@ -7,6 +7,9 @@
 //
 
 #import "ViewController.h"
+#import "FirstViewController.h"
+#import "SecondViewController.h"
+#import "AppDelegate.h"
 
 @interface ViewController ()
 
